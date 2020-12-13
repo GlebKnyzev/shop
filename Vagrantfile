@@ -18,8 +18,8 @@ if required_plugins_installed
 end
 
 domains = {
-  frontend: 'shop.dev',
-  backend:  'backend.shop.dev'
+  frontend: 'shop.test',
+  backend:  'backend.shop.test'
 }
 
 config = {
